@@ -1,0 +1,106 @@
+﻿Country,ISO639-2 Country Code,ISO639-2 Lang,Average of Latitude (average),Average of Longitude (average),Numeric code,Alpha-3 code,Alpha-2 code,ISO 3166 Country Code,ISO 3166 Country Code_1,Date Format,Language
+Albania,AL,sq,41,20,8,ALB,AL,ALB,sqi,yyyy-MM-dd,Albanian
+Algeria,DZ,ar,28,3,12,DZA,DZ,DZA,ara,dd/MM/yyyy,Arabic
+Argentina,AR,es,-34,-64,32,ARG,AR,ARG,spa,dd/MM/yyyy,Spanish
+Australia,AU,en,-27,133,36,AUS,AU,AUS,eng,d/MM/yyyy,English
+Austria,AT,de,47.3333,13.3333,40,AUT,AT,AUT,deu,dd.MM.yyyy,German
+Bahrain,BH,ar,26,50.55,48,BHR,BH,BHR,ara,dd/MM/yyyy,Arabic
+Belarus,BY,be,53,28,112,BLR,BY,BLR,bel,d.M.yyyy,Belarusian
+Belgium,BE,fr,50.8333,4,56,BEL,BE,BEL,fra,d/MM/yyyy,French
+Belgium,BE,nl,50.8333,4,56,BEL,BE,BEL,nld,d/MM/yyyy,Dutch
+Bolivia,BO,es,-17,-65,68,BOL,BO,BOL,spa,dd-MM-yyyy,Spanish
+Bosnia and Herzegovina,BA,sr,44,18,70,BIH,BA,BIH,srp,yyyy-MM-dd,Serbian
+Brazil,BR,pt,-10,-55,76,BRA,BR,BRA,por,dd/MM/yyyy,Portuguese
+Bulgaria,BG,bg,43,25,100,BGR,BG,BGR,bul,yyyy-M-d,Bulgarian
+Canada,CA,en,60,-95,124,CAN,CA,CAN,eng,dd/MM/yyyy,English
+Canada,CA,fr,60,-95,124,CAN,CA,CAN,fra,yyyy-MM-dd,French
+Chile,CL,es,-30,-71,152,CHL,CL,CHL,spa,dd-MM-yyyy,Spanish
+China,CN,zh,35,105,156,CHN,CN,CHN,zho,yyyy-M-d,Chinese
+Colombia,CO,es,4,-72,170,COL,CO,COL,spa,d/MM/yyyy,Spanish
+Costa Rica,CR,es,10,-84,188,CRI,CR,CRI,spa,dd/MM/yyyy,Spanish
+Croatia,HR,hr,45.1667,15.5,191,HRV,HR,HRV,hrv,dd.MM.yyyy.,Croatian
+Cyprus,CY,el,35,33,196,CYP,CY,CYP,ell,dd/MM/yyyy,Greek
+Czech Republic,CZ,cs,49.75,15.5,203,CZE,CZ,CZE,ces,d.M.yyyy,Czech
+Denmark,DK,da,56,10,208,DNK,DK,DNK,dan,dd-MM-yyyy,Danish
+Dominican Republic,DO,es,19,-70.6667,214,DOM,DO,DOM,spa,MM/dd/yyyy,Spanish
+Ecuador,EC,es,-2,-77.5,218,ECU,EC,ECU,spa,dd/MM/yyyy,Spanish
+Egypt,EG,ar,27,30,818,EGY,EG,EGY,ara,dd/MM/yyyy,Arabic
+El Salvador,SV,es,13.8333,-88.9167,222,SLV,SV,SLV,spa,MM-dd-yyyy,Spanish
+Estonia,EE,et,59,26,233,EST,EE,EST,est,d.MM.yyyy,Estonian
+Finland,FI,fi,64,26,246,FIN,FI,FIN,fin,d.M.yyyy,Finnish
+France,FR,fr,46,2,250,FRA,FR,FRA,fra,dd/MM/yyyy,French
+Germany,DE,de,51,9,276,DEU,DE,DEU,deu,dd.MM.yyyy,German
+Greece,GR,el,39,22,300,GRC,GR,GRC,ell,d/M/yyyy,Greek
+Guatemala,GT,es,15.5,-90.25,320,GTM,GT,GTM,spa,d/MM/yyyy,Spanish
+Honduras,HN,es,15,-86.5,340,HND,HN,HND,spa,MM-dd-yyyy,Spanish
+Hong Kong,HK,zh,22.25,114.1667,344,HKG,HK,HKG,zho,yyyyå¹´Mæœˆdæ—¥,Chinese
+Hungary,HU,hu,47,20,348,HUN,HU,HUN,hun,yyyy.MM.dd.,Hungarian
+Iceland,IS,is,65,-18,352,ISL,IS,ISL,isl,d.M.yyyy,Icelandic
+India,IN,en,20,77,356,IND,IN,IND,eng,d/M/yyyy,English
+India,IN,hi,20,77,356,IND,IN,IND,hin,à¥©/à¥¬/à¥§à¥¨,Hindi
+Indonesia,ID,in,-5,120,360,IDN,ID,IDN,ind,dd/MM/yyyy,Indonesian
+Iraq,IQ,ar,33,44,368,IRQ,IQ,IRQ,ara,dd/MM/yyyy,Arabic
+Ireland,IE,en,53,-8,372,IRL,IE,IRL,eng,dd/MM/yyyy,English
+Ireland,IE,ga,53,-8,372,IRL,IE,IRL,gle,dd/MM/yyyy,Irish
+Israel,IL,iw,31.5,34.75,376,ISR,IL,ISR,heb,dd/MM/yyyy,Hebrew
+Italy,IT,it,42.8333,12.8333,380,ITA,IT,ITA,ita,dd/MM/yyyy,Italian
+Japan,JP,ja,36,138,392,JPN,JP,JPN,jpn,H24.MM.dd,Japanese
+Japan,JP,ja,36,138,392,JPN,JP,JPN,jpn,yyyy/MM/dd,Japanese
+Jordan,JO,ar,31,36,400,JOR,JO,JOR,ara,dd/MM/yyyy,Arabic
+Kuwait,KW,ar,29.3375,47.6581,414,KWT,KW,KWT,ara,dd/MM/yyyy,Arabic
+Latvia,LV,lv,57,25,428,LVA,LV,LVA,lav,yyyy.d.M,Latvian
+Lebanon,LB,ar,33.8333,35.8333,422,LBN,LB,LBN,ara,dd/MM/yyyy,Arabic
+Libya,LY,ar,25,17,434,LBY,LY,LBY,ara,dd/MM/yyyy,Arabic
+Lithuania,LT,lt,56,24,440,LTU,LT,LTU,lit,yyyy.M.d,Lithuanian
+Luxembourg,LU,de,49.75,6.1667,442,LUX,LU,LUX,deu,dd.MM.yyyy,German
+Luxembourg,LU,fr,49.75,6.1667,442,LUX,LU,LUX,fra,dd/MM/yyyy,French
+Malaysia,MY,ms,2.5,112.5,458,MYS,MY,MYS,msa,dd/MM/yyyy,Malay
+Malta,MT,en,35.8333,14.5833,470,MLT,MT,MLT,eng,dd/MM/yyyy,English
+Malta,MT,mt,35.8333,14.5833,470,MLT,MT,MLT,mlt,dd/MM/yyyy,Maltese
+Mexico,MX,es,23,-102,484,MEX,MX,MEX,spa,d/MM/yyyy,Spanish
+Montenegro,ME,sr,42,19,499,MNE,ME,MNE,srp,d.M.yyyy.,Serbian
+Morocco,MA,ar,32,-5,504,MAR,MA,MAR,ara,dd/MM/yyyy,Arabic
+Netherlands,NL,nl,52.5,5.75,528,NLD,NL,NLD,nld,d-M-yyyy,Dutch
+New Zealand,NZ,en,-41,174,554,NZL,NZ,NZL,eng,d/MM/yyyy,English
+Nicaragua,NI,es,13,-85,558,NIC,NI,NIC,spa,MM-dd-yyyy,Spanish
+Norway,NO,no,62,10,578,NOR,NO,NOR,nor,dd.MM.yyyy,Norwegian
+Oman,OM,ar,21,57,512,OMN,OM,OMN,ara,dd/MM/yyyy,Arabic
+Panama,PA,es,9,-80,591,PAN,PA,PAN,spa,MM/dd/yyyy,Spanish
+Paraguay,PY,es,-23,-58,600,PRY,PY,PRY,spa,dd/MM/yyyy,Spanish
+Peru,PE,es,-10,-76,604,PER,PE,PER,spa,dd/MM/yyyy,Spanish
+Philippines,PH,en,13,122,608,PHL,PH,PHL,eng,M/d/yyyy,English
+Poland,PL,pl,52,20,616,POL,PL,POL,pol,dd.MM.yyyy,Polish
+Portugal,PT,pt,39.5,-8,620,PRT,PT,PRT,por,dd-MM-yyyy,Portuguese
+Puerto Rico,PR,es,18.25,-66.5,630,PRI,PR,PRI,spa,MM-dd-yyyy,Spanish
+Qatar,QA,ar,25.5,51.25,634,QAT,QA,QAT,ara,dd/MM/yyyy,Arabic
+Romania,RO,ro,46,25,642,ROU,RO,ROU,ron,dd.MM.yyyy,Romanian
+Russia,RU,ru,60,100,643,RUS,RU,RUS,rus,dd.MM.yyyy,Russian
+Saudi Arabia,SA,ar,25,45,682,SAU,SA,SAU,ara,dd/MM/yyyy,Arabic
+Serbia,RS,sr,44,21,688,SRB,RS,SRB,srp,d.M.yyyy.,Serbian
+Singapore,SG,en,1.3667,103.8,702,SGP,SG,SGP,eng,M/d/yyyy,English
+Singapore,SG,zh,1.3667,103.8,702,SGP,SG,SGP,zho,dd/MM/yyyy,Chinese
+Slovakia,SK,sk,48.6667,19.5,703,SVK,SK,SVK,slk,d.M.yyyy,Slovak
+Slovenia,SI,sl,46,15,705,SVN,SI,SVN,slv,d.M.yyyy,Slovenian
+South Africa,ZA,en,-29,24,710,ZAF,ZA,ZAF,eng,yyyy/MM/dd,English
+South Korea,KR,ko,37,127.5,410,KOR,KR,KOR,kor,yyyy. M. d,Korean
+Spain,ES,ca,40,-4,724,ESP,ES,ESP,cat,dd/MM/yyyy,Catalan
+Spain,ES,es,40,-4,724,ESP,ES,ESP,spa,d/MM/yyyy,Spanish
+Sudan,SD,ar,15,30,736,SDN,SD,SDN,ara,dd/MM/yyyy,Arabic
+Sweden,SE,sv,62,15,752,SWE,SE,SWE,swe,yyyy-MM-dd,Swedish
+Switzerland,CH,de,47,8,756,CHE,CH,CHE,deu,dd.MM.yyyy,German
+Switzerland,CH,fr,47,8,756,CHE,CH,CHE,fra,dd.MM.yyyy,French
+Switzerland,CH,it,47,8,756,CHE,CH,CHE,ita,dd.MM.yyyy,Italian
+Taiwan,TW,zh,23.5,121,158,TWN,TW,TWN,zho,yyyy/M/d,Chinese
+Thailand,TH,th,15,100,764,THA,TH,THA,tha,à¹“/à¹–/à¹’à¹•à¹•à¹•,Thai
+Thailand,TH,th,15,100,764,THA,TH,THA,tha,d/M/2555,Thai
+Tunisia,TN,ar,34,9,788,TUN,TN,TUN,ara,dd/MM/yyyy,Arabic
+Turkey,TR,tr,39,35,792,TUR,TR,TUR,tur,dd.MM.yyyy,Turkish
+Ukraine,UA,uk,49,32,804,UKR,UA,UKR,ukr,dd.MM.yyyy,Ukrainian
+United Arab Emirates,AE,ar,24,54,784,ARE,AE,ARE,ara,dd/MM/yyyy,Arabic
+United Kingdom,GB,en,54,-2,826,GBR,GB,GBR,eng,dd/MM/yyyy,English
+United States,US,en,38,-97,840,USA,US,USA,eng,M/d/yyyy,English
+United States,US,es,38,-97,840,USA,US,USA,spa,M/d/yyyy,Spanish
+Uruguay,UY,es,-33,-56,858,URY,UY,URY,spa,dd/MM/yyyy,Spanish
+Venezuela,VE,es,8,-66,862,VEN,VE,VEN,spa,dd/MM/yyyy,Spanish
+Vietnam,VN,vi,16,106,704,VNM,VN,VNM,vie,dd/MM/yyyy,Vietnamese
+Yemen,YE,ar,15,48,887,YEM,YE,YEM,ara,dd/MM/yyyy,Arabic
